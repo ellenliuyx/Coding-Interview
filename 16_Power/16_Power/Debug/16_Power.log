@@ -1,0 +1,3 @@
+﻿  16_Power.cpp
+D:\VSprojects\16_Power\16_Power\16_Power.cpp(68): warning C4715: “Power”: 不是所有的控件路径都返回值
+  16_Power.vcxproj -> D:\VSprojects\16_Power\Debug\16_Power.exe

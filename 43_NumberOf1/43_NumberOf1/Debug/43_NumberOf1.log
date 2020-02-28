@@ -1,0 +1,6 @@
+﻿  43_NumberOf1.cpp
+D:\VSprojects\43_NumberOf1\43_NumberOf1\43_NumberOf1.cpp(39,20): warning C4018: “<=”: 有符号/无符号不匹配
+D:\VSprojects\43_NumberOf1\43_NumberOf1\43_NumberOf1.cpp(62,56): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\VSprojects\43_NumberOf1\43_NumberOf1\43_NumberOf1.cpp(66,52): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\VSprojects\43_NumberOf1\43_NumberOf1\43_NumberOf1.cpp(71,93): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  43_NumberOf1.vcxproj -> D:\VSprojects\43_NumberOf1\Debug\43_NumberOf1.exe

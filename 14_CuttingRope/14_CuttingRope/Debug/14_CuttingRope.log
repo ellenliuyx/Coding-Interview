@@ -1,0 +1,5 @@
+﻿  14_CuttingRope.cpp
+D:\VSprojects\14_CuttingRope\14_CuttingRope\14_CuttingRope.cpp(72,36): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\VSprojects\14_CuttingRope\14_CuttingRope\14_CuttingRope.cpp(79,32): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\VSprojects\14_CuttingRope\14_CuttingRope\14_CuttingRope.cpp(86,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  14_CuttingRope.vcxproj -> D:\VSprojects\14_CuttingRope\Debug\14_CuttingRope.exe

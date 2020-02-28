@@ -1,0 +1,3 @@
+﻿  08_NextNodeInBT.cpp
+D:\VSprojects\08_NextNodeInBT\08_NextNodeInBT\08_NextNodeInBT.cpp(141): warning C4715: “GetNextNode”: 不是所有的控件路径都返回值
+  08_NextNodeInBT.vcxproj -> D:\VSprojects\08_NextNodeInBT\Debug\08_NextNodeInBT.exe

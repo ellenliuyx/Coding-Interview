@@ -1,0 +1,4 @@
+﻿  50_01_FirstNotRepeatingChar.cpp
+C:\Users\RexLiuyx\source\repos\50_01_FirstNotRepeatingChar\50_01_FirstNotRepeatingChar\50_01_FirstNotRepeatingChar.cpp(21,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\RexLiuyx\source\repos\50_01_FirstNotRepeatingChar\50_01_FirstNotRepeatingChar\50_01_FirstNotRepeatingChar.cpp(26,20): warning C4018: “<”: 有符号/无符号不匹配
+  50_01_FirstNotRepeatingChar.vcxproj -> C:\Users\RexLiuyx\source\repos\50_01_FirstNotRepeatingChar\Debug\50_01_FirstNotRepeatingChar.exe

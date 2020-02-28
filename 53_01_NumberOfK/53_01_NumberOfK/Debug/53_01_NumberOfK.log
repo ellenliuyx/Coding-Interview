@@ -1,0 +1,4 @@
+﻿  53_01_NumberOfK.cpp
+D:\VSprojects\53_01_NumberOfK\53_01_NumberOfK\53_01_NumberOfK.cpp(41): warning C4715: “GetLastK”: 不是所有的控件路径都返回值
+D:\VSprojects\53_01_NumberOfK\53_01_NumberOfK\53_01_NumberOfK.cpp(22): warning C4715: “GetFirstK”: 不是所有的控件路径都返回值
+  53_01_NumberOfK.vcxproj -> D:\VSprojects\53_01_NumberOfK\Debug\53_01_NumberOfK.exe

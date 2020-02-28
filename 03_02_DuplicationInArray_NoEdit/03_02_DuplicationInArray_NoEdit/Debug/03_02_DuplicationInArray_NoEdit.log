@@ -1,0 +1,4 @@
+﻿  03_02_DuplicationInArray_NoEdit.cpp
+D:\VSprojects\03_02_DuplicationInArray_NoEdit\03_02_DuplicationInArray_NoEdit\03_02_DuplicationInArray_NoEdit.cpp(36,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\VSprojects\03_02_DuplicationInArray_NoEdit\03_02_DuplicationInArray_NoEdit\03_02_DuplicationInArray_NoEdit.cpp(59,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  03_02_DuplicationInArray_NoEdit.vcxproj -> D:\VSprojects\03_02_DuplicationInArray_NoEdit\Debug\03_02_DuplicationInArray_NoEdit.exe
